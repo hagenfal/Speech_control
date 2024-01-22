@@ -1,0 +1,8 @@
+prefix=/home/hagen/Desktop/Robotik_Projekt/devel
+
+Name: Spracherkennung
+Description: Description of Spracherkennung
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

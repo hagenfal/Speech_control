@@ -1,0 +1,2 @@
+Spracherkennung
+-DCATKIN_DEVEL_PREFIX=/home/hagen/Desktop/Robotik_Projekt/devel -DCMAKE_INSTALL_PREFIX=/home/hagen/Desktop/Robotik_Projekt/install -G Unix Makefiles
